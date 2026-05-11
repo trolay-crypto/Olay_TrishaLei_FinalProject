@@ -105,7 +105,7 @@ Book borrowed successfully.
 
 ### Main Menu
 
-![Main Menu 1-3]([screenshots\mainmenu_1-3.png](https://github.com/trolay-crypto/Olay_TrishaLei_FinalProject/blob/main/screenshots/mainmenu_1-3.png))
+![Main Menu 1-3](https://github.com/trolay-crypto/Olay_TrishaLei_FinalProject/blob/main/screenshots/mainmenu_1-3.png)
 
 ![Main Menu 4-7](screenshots\mainmenu_4-7.png)
 
