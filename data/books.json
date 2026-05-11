@@ -1,0 +1,27 @@
+[
+    {
+        "title": "Harry Potter",
+        "author": "J.K. Rowling",
+        "status": "Available"
+    },
+    {
+        "title": "Percy Jackson",
+        "author": "Rick Riordan",
+        "status": "Available"
+    },
+    {
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "status": "Available"
+    },
+    {
+        "title": "Percy Jackson",
+        "author": "Rick Riordan",
+        "status": "Available"
+    },
+    {
+        "title": "Harry Potter",
+        "author": "J.K. Rowling",
+        "status": "Available"
+    }
+]
