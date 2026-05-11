@@ -107,7 +107,7 @@ Book borrowed successfully.
 
 ![Main Menu 1-3](https://github.com/trolay-crypto/Olay_TrishaLei_FinalProject/blob/main/screenshots/mainmenu_1-3.png)
 
-![Main Menu 4-7](screenshots\mainmenu_4-7.png)
+![Main Menu 4-7](https://github.com/trolay-crypto/Olay_TrishaLei_FinalProject/blob/main/screenshots/mainmenu_4-7.png)
 
 ## Advanced Python Concepts Used
 
